@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "todo-adapter",
+    "todo-app",
+    "todo-domain",
+    "todo-presenter"
+]
